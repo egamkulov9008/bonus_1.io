@@ -1,0 +1,9 @@
+---
+title: "Experience"
+editor: visual
+---
+
+Throughout my career, I have gained substantial experience in various roles. As a Sales Manager at EcoRay Co. Ltd. in Seoul, South Korea, I managed sales operations for CIS and European markets. At MSBIO Inc., I promoted medical devices and human tissue products across multiple regions, including the USA, Europe, and Asia-Pacific. My tenure as an Account Manager at Pine BM Co. Ltd. involved managing international accounts and spearheading online sales initiatives.
+
+In addition to my professional experience, I have worked on several data-driven projects. I developed a Python-based tool to scrape, analyze, and visualize price data from various e-commerce platforms. I also built a house price prediction model using regression techniques and simulated customer traffic to improve operational efficiency in a café setting.
+---

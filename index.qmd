@@ -2,10 +2,9 @@
 title: "Mukhammad Egamkulov"
 ---
 
-This is a Quarto website.
+Hello! My name is Mukhammed Egamkulov, and I am a dedicated professional with a strong foundation in project management, account management, international sales, and data science. I thrive on the challenge of leveraging data to drive decision-making and enhance business processes. My passion lies in harnessing technology to solve complex problems and deliver innovative solutions.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science & Decision Support at Europa-Universität Viadrina in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from SolBridge International School of Business in South Korea, where I also completed an exchange semester at Buckingham University (IBS Budapest) in Hungary.
 
-```{r}
-1 + 1
-```
+
+My technical skills include proficiency in Python, R, KNIME, MySQL, and various data visualization tools. I am fluent in Uzbek, Kyrgyz, English, Russian, and Korean, with intermediate proficiency in German.
