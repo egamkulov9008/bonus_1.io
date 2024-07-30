@@ -1,10 +1,31 @@
 ---
 title: "Mukhammad Egamkulov"
+image: photo.jpg
+resources: CV.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envolope
+      href: mailto:egamkulov97@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/egamkulov9008/bonus_1.io
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/mukhammad-egamkulov-344231189/
+    - text: CV
+      icon: file-text
+      href: CV.pdf
+  id: ppc
 ---
-
+:::{#ppc}
 Hello! My name is Mukhammed Egamkulov, and I am a dedicated professional with a strong foundation in project management, account management, international sales, and data science. I thrive on the challenge of leveraging data to drive decision-making and enhance business processes. My passion lies in harnessing technology to solve complex problems and deliver innovative solutions.
 
-I am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science & Decision Support at Europa-Universität Viadrina in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from SolBridge International School of Business in South Korea, where I also completed an exchange semester at Buckingham University (IBS Budapest) in Hungary.
+I am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science & Decision Support at [Europa-Universität Viadrina](https://www.europa-uni.de/en/index.html) in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from [SolBridge International School](https://www.solbridge.ac.kr/story/main/index.jsp) of Business in South Korea, where I also completed an exchange semester at Buckingham University [IBS Budapest](https://www.ibs-b.hu/en/?lan=en) in Hungary.
 
 
 My technical skills include proficiency in Python, R, KNIME, MySQL, and various data visualization tools. I am fluent in Uzbek, Kyrgyz, English, Russian, and Korean, with intermediate proficiency in German.
+:::

@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "Mukhammad Egamkulov",
     "section": "",
-    "text": "Hello! My name is Mukhammed Egamkulov, and I am a dedicated professional with a strong foundation in project management, account management, international sales, and data science. I thrive on the challenge of leveraging data to drive decision-making and enhance business processes. My passion lies in harnessing technology to solve complex problems and deliver innovative solutions.\nI am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science & Decision Support at Europa-Universität Viadrina in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from SolBridge International School of Business in South Korea, where I also completed an exchange semester at Buckingham University (IBS Budapest) in Hungary.\nMy technical skills include proficiency in Python, R, KNIME, MySQL, and various data visualization tools. I am fluent in Uzbek, Kyrgyz, English, Russian, and Korean, with intermediate proficiency in German."
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Linkedin\n  \n  \n    \n     CV\n  \n\n  \n  \nHello! My name is Mukhammed Egamkulov, and I am a dedicated professional with a strong foundation in project management, account management, international sales, and data science. I thrive on the challenge of leveraging data to drive decision-making and enhance business processes. My passion lies in harnessing technology to solve complex problems and deliver innovative solutions.\nI am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science & Decision Support at Europa-Universität Viadrina in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from SolBridge International School of Business in South Korea, where I also completed an exchange semester at Buckingham University IBS Budapest in Hungary.\nMy technical skills include proficiency in Python, R, KNIME, MySQL, and various data visualization tools. I am fluent in Uzbek, Kyrgyz, English, Russian, and Korean, with intermediate proficiency in German."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Hobbies",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In my free time, I enjoy staying active and mentally sharp through a variety of hobbies. I am an avid football enthusiast, both playing and watching the sport, which I find exhilarating and a great way to bond with friends and colleagues. I also have a passion for chess, enjoying the strategic depth and intellectual challenge it offers. Additionally, running is a key part of my routine, helping me stay fit and clear my mind. Whether it’s hitting the football field, engaging in a chess match, or going for a run, these activities bring balance and joy to my life."
   },
   {
     "objectID": "Experience.html",
     "href": "Experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Throughout my career, I have gained substantial experience in various roles. As a Sales Manager at EcoRay Co. Ltd. in Seoul, South Korea, I managed sales operations for CIS and European markets. At MSBIO Inc., I promoted medical devices and human tissue products across multiple regions, including the USA, Europe, and Asia-Pacific. My tenure as an Account Manager at Pine BM Co. Ltd. involved managing international accounts and spearheading online sales initiatives.\nIn addition to my professional experience, I have worked on several data-driven projects. I developed a Python-based tool to scrape, analyze, and visualize price data from various e-commerce platforms. I also built a house price prediction model using regression techniques and simulated customer traffic to improve operational efficiency in a café setting."
+    "text": "Throughout my career, I have gained substantial experience in various roles. As a Sales Manager at EcoRay Co. Ltd. in Seoul, South Korea, I managed sales operations for CIS and European markets. At MSBIO Inc., I promoted medical devices and human tissue products across multiple regions, including the USA, Europe, and Asia-Pacific. My tenure as an Account Manager at Pine BM Co. Ltd. involved managing international accounts and spearheading online sales initiatives.\nIn addition to my professional experience, I have worked on several data-driven projects. I developed a Python-based tool to scrape, analyze, and visualize price data from various e-commerce platforms. I also built a house price prediction model using regression techniques and simulated customer traffic to improve operational efficiency in a café setting."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "In my free time, I enjoy staying active and mentally sharp through a variety of hobbies. I am an avid football enthusiast, both playing and watching the sport, which I find exhilarating and a great way to bond with friends and colleagues. I also have a passion for chess, enjoying the strategic depth and intellectual challenge it offers. Additionally, running is a key part of my routine, helping me stay fit and clear my mind. Whether it’s hitting the football field, engaging in a chess match, or going for a run, these activities bring balance and joy to my life."
   }
 ]

@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -71,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -87,18 +86,18 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./Experience.html"> 
 <span class="menu-text">Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./hobbies.html"> 
+<span class="menu-text">Hobbies</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,34 +110,51 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+
+
+
+<div class="quarto-about-trestles content">
+  <div class="about-entity">
+    <img src="photo.jpg" class="about-image
+  round " style="height: 15em; width: 15em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Mukhammad Egamkulov</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
 </header>
-
-
+    <div class="about-links">
+  <a href="mailto:egamkulov97@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-envolope"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+  <a href="https://github.com/egamkulov9008/bonus_1.io" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="https://www.linkedin.com/in/mukhammad-egamkulov-344231189/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">Linkedin</span>
+  </a>
+  <a href="/CV.pdf" class="about-link" rel="" target="">
+    <i class="bi bi-file-text"></i>
+     <span class="about-link-text">CV</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><div id="ppc">
 <p>Hello! My name is Mukhammed Egamkulov, and I am a dedicated professional with a strong foundation in project management, account management, international sales, and data science. I thrive on the challenge of leveraging data to drive decision-making and enhance business processes. My passion lies in harnessing technology to solve complex problems and deliver innovative solutions.</p>
-<p>I am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science &amp; Decision Support at Europa-Universität Viadrina in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from SolBridge International School of Business in South Korea, where I also completed an exchange semester at Buckingham University (IBS Budapest) in Hungary.</p>
+<p>I am currently pursuing a Master’s degree in International Business Administration with a focus on Data Science &amp; Decision Support at <a href="https://www.europa-uni.de/en/index.html">Europa-Universität Viadrina</a> in Frankfurt (Oder), Germany. Previously, I earned a Bachelor’s degree in Business Administration with a major in Finance from <a href="https://www.solbridge.ac.kr/story/main/index.jsp">SolBridge International School</a> of Business in South Korea, where I also completed an exchange semester at Buckingham University <a href="https://www.ibs-b.hu/en/?lan=en">IBS Budapest</a> in Hungary.</p>
 <p>My technical skills include proficiency in Python, R, KNIME, MySQL, and various data visualization tools. I am fluent in Uzbek, Kyrgyz, English, Russian, and Korean, with intermediate proficiency in German.</p>
+</div></div>
+</div>
+
+
 
 
 
@@ -163,13 +179,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
